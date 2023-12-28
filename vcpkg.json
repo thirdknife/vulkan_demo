@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "vk-bootstrap",
+    "glfw3",
+    "vulkan-headers",
+    "glm",
+    "stb",
+    "vulkan-memory-allocator"
+  ]
+}
